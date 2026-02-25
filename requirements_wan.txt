@@ -1,0 +1,6 @@
+diffusers==0.31.0
+peft==0.13.0
+imageio
+easydict
+dashscope
+imageio-ffmpeg
